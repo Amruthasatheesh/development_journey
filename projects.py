@@ -1,0 +1,1 @@
+print("projects: product review Sentiment analysis using nlp technology,college canteen app,covid-19 fake news detection using ml")

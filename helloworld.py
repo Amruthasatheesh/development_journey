@@ -1,0 +1,5 @@
+print("helloworld")
+print("my name is amrutha")
+print("place is Thrissur")
+print("masters in computer application in 2024")
+print("my hobbies are watching series,singing,Reading..")

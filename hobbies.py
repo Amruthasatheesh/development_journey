@@ -1,0 +1,1 @@
+print("hobbies are watching series,singing, reading")

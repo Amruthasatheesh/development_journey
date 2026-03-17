@@ -1,0 +1,1 @@
+print("communication,teamwork and collaboration,Time management,problem solving skills")

@@ -1,0 +1,1 @@
+print("name:amrutha,place:chelakkara,address:kv house,phn:223344,mail id:abc123@gmail.com")

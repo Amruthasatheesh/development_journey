@@ -1,0 +1,1 @@
+print("python is interpreted language,easy to learn,human readable format,object oriented programming language,large number of libraries")

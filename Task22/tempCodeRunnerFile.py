@@ -1,0 +1,1 @@
+details={"name":"ammu","age":23,"course":"data science"}

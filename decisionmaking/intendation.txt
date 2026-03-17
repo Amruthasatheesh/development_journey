@@ -1,0 +1,17 @@
+food:
+
+   breakfast:
+        idly:
+        dosa:
+        chapathi:
+    lunch:
+        meals:
+        biriyani:
+        fried rice:
+    Dinner:
+        chapathi and kuruma:
+        poori masala:
+
+     snacks:
+        cutlet:
+                   
